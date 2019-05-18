@@ -7,7 +7,7 @@ def square_array(array)
     sq = i*i
     sq.append
   end
-  
+
   array.each do |square|
 
   end
