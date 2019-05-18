@@ -5,6 +5,7 @@ def square_array(array)
   for i in ran_arr
     sq = i*i
     return sq
+  end
   array.each do |square|
 
   end
