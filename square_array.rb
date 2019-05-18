@@ -5,7 +5,7 @@ def square_array(array)
   new_arr = []
   for i in ran_arr
     sq = i*i
-    new_arr.append
+    new_arr.append(sq)
   end
 
   # array.each do |square|
