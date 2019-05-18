@@ -4,6 +4,7 @@ def square_array(array)
   array.each do |square|
     squared = square * square
     return squared
+  end
 
   # array.each do |square|
 
