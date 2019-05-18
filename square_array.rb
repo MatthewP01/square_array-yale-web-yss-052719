@@ -8,7 +8,7 @@ def square_array(array)
     sq.append
   end
 
-  array.each do |square|
+  # array.each do |square|
 
-  end
+  # end
 end
